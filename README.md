@@ -1,8 +1,6 @@
 # Bem vindo(a) ao meu perfil.
 
-Olá, eu sou o Pedro Henrique
-
-![WhatsApp Image 2022-10-19 at 2 22 04 PM](https://user-images.githubusercontent.com/116196015/197203582-96b5c0b8-43d9-4273-9e65-66ab1f5953a5.jpeg)
+Olá, eu sou o Pedro Henrique de Sousa, tenho 19 anos, trabalho como Aux Fiscal, estudo filosofia e sou curioso na área de programação.
 
 
 ## Meus Hobbies 
